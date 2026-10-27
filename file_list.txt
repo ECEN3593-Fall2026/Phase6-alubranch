@@ -1,0 +1,12 @@
+instr_strings_pkg.sv
+enum_defines_pkg.sv
+system_tb.sv
+cpu.sv 
+unclocked_ro_mem.sv 
+fetch.sv
+decode.sv 
+execute.sv
+mem.sv
+writeback.sv
+regfile.sv
+system.sv
