@@ -412,7 +412,7 @@ Submit the URL in canvas as the submission when you are completed.
 
 20 points total
 
-Part 1 - 5 pt, Part 2 - 5pt, Part 3 - 5pt, Part 4 - 5pt.
+Part 1 - 3.75 pt, Part 2 - 3.75pt, Part 3 - 3.75pt, Part 4 - 3.75pt.  The diagram will account for the remaining 5 points. 
 
 We will run the test cases we provide.  For each you get correct, you will get full credit for that part (Part 3 and 4 had two tests, so half credit each).  So, you can know correctness before submission.  We will not add hidden tests.  Note: you will immediately get a 0 for the entire Phase (not just the part) if you try to game this -- like outputting some known correct output without correctly operating code.  We can easily check for this, so don't do it. 
 
